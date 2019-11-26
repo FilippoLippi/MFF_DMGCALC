@@ -142,12 +142,12 @@ const BUFF = {
 const URL = {
   JP_CARDS: 'https://script.google.com/macros/s/AKfycby5HVdcFyPDu9kLXT7pM_YhPjhyskSUqtm7suKcEUKJSHaiyslA/exec',
   GL_CARDS: 'https://script.google.com/macros/s/AKfycbz_7KPqyW9GNGIo76kYzrgS6Gl6shkhhr-OT1cdY5dc2KGL-MU/exec',
-	JOBS: 'https://script.google.com/macros/s/AKfycbzb8iuyTiIPjMBQgw4HOaY21HTmccOQQpezlQDQzxUMrASLoFT6/exec',
-	WPN: 'https://script.google.com/macros/s/AKfycbzjAa_YwJ_WcYnnRJ_irrAbFUV-mPwWBQqMDXyTR-Wtn5_dixMh/exec'
+  JOBS: 'https://script.google.com/macros/s/AKfycbzb8iuyTiIPjMBQgw4HOaY21HTmccOQQpezlQDQzxUMrASLoFT6/exec',
+  WPN: 'https://script.google.com/macros/s/AKfycbzjAa_YwJ_WcYnnRJ_irrAbFUV-mPwWBQqMDXyTR-Wtn5_dixMh/exec'
 };
 
 const UI_SETTING = {
-	max_entry_count: 50
+  max_entry_count: 50
 }
 
 export { AUTO_ABILITY, URL, EXTRA_SKILL, CLASS, STATS, ELEMENT, ELEMENT_SHORT, BUFF, BUFF_VALUE, UI_SETTING };

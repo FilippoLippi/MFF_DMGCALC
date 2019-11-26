@@ -1,92 +1,92 @@
 body {
-	background-color: #36393f;
-	color: #d7ddde;
+    background-color: #36393f;
+    color: #d7ddde;
 }
 
 a {
-	color: #d7ddde;
+    color: #d7ddde;
 }
 
 hr {
-	border: 1px solid #d7ddde;
+    border: 1px solid #d7ddde;
 }
 
 .btn {
-	touch-action: manipulation;
-	cursor: pointer;
+    touch-action: manipulation;
+    cursor: pointer;
 }
 
 .header-bar {
-	background-image: linear-gradient(to bottom right, #ac5210, #ebb44a);
-	color: white;
-	padding: 16px 8px;
+    background-image: linear-gradient(to bottom right, #ac5210, #ebb44a);
+    color: white;
+    padding: 16px 8px;
 }
 
 .older-version-div {
-	text-align: right;
-	padding: 10px;
+    text-align: right;
+    padding: 10px;
 }
 
 .container {
-	max-width: 1200px;
+    max-width: 1200px;
 }
 
 .resultTxt {
-	color: #9c8131
+    color: #9c8131
 }
 
 .job-img{
-	min-width: 70px;
-	max-width: 70px;
-	min-height: 70px;
-	max-height: 70px;
-	border-radius:15%; overflow:hidden;
+    min-width: 70px;
+    max-width: 70px;
+    min-height: 70px;
+    max-height: 70px;
+    border-radius:15%; overflow:hidden;
 }
 
 .icon-img{
-	max-width: 20px;
+    max-width: 20px;
 }
 
 .ability-panel {
-	#margin: 25px 25px;
+    #margin: 25px 25px;
 }
 .ability-panel img{
-	#float: left;
-	margin-right: 40px;
-	margin-bottom: 20px;
-	max-width: 350px;
-	width:100%;
+    #float: left;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    max-width: 350px;
+    width:100%;
 }
 
 .ability-panel input[readonly]{
-	background-color:transparent;
-	color:#d7ddde;
+    background-color:transparent;
+    color:#d7ddde;
 }
 
 .form-control {
-	background-color: #36393f;
-	color: #d7ddde;
+    background-color: #36393f;
+    color: #d7ddde;
 }
 
 .border-top {
-	padding-top: 20px;
-	border-top: 1px solid #d7ddde;
+    padding-top: 20px;
+    border-top: 1px solid #d7ddde;
 }
 
 .row {
-	margin-left: 0px;
-	margin-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .row-margin-offset{
-	margin-left: -15px;
-	margin-right: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 .dmg-label {
-	min-width: 120px;
-	float: right;
-	background-color: #363639;
+    min-width: 120px;
+    float: right;
+    background-color: #363639;
 }
 
 .perk-label {
@@ -101,50 +101,50 @@ div.perk-container>div:nth-of-type(odd) {
 }
 
 .wpn-label img {
-	max-width: 35px;
+    max-width: 35px;
 }
 
 .rank-label {
-	min-width: 40px;
+    min-width: 40px;
 }
 
 .list-group-item {
-	color: #d7ddde;
-	background-color: #3f4349;
-	border: 1px solid #979797;
+    color: #d7ddde;
+    background-color: #3f4349;
+    border: 1px solid #979797;
 }
 
 .list-group-item:hover {
-	color: #d7ddde;
-	background-color: #4c4d50;
+    color: #d7ddde;
+    background-color: #4c4d50;
 }
 
 .collapseBut img {
-	max-width: 60px;
-	margin-right:10px;
+    max-width: 60px;
+    margin-right:10px;
 }
 
 .collapseBut {
-	color: #d7ddde;
-	font-size: 18px;
-	width: 100%;
-	text-align:left;
-	padding: 0px!important;
-	background-image: linear-gradient(to bottom right, #124190, #3b77d0);
-	##background-color: #129066;
+    color: #d7ddde;
+    font-size: 18px;
+    width: 100%;
+    text-align:left;
+    padding: 0px!important;
+    background-image: linear-gradient(to bottom right, #124190, #3b77d0);
+    ##background-color: #129066;
 }
 
 .collapseBut:hover{
-	color: #d7ddde;
-	background-image: linear-gradient(to bottom right, #114275, #2b5da7)!important;
+    color: #d7ddde;
+    background-image: linear-gradient(to bottom right, #114275, #2b5da7)!important;
 }
 
 .elem-table img {
-	max-width: 30px;
+    max-width: 30px;
 }
 
 .lore-table img {
-	max-width: 30px;
+    max-width: 30px;
 }
 
 /* Bootstrap Toggle v2.2.2 corrections for Bootsrtap 4*/
@@ -182,15 +182,15 @@ input[type=checkbox]:checked + label img {
 }
 
 .img-check {
-	touch-action: manipulation;
-	cursor: pointer;
-	border-radius:10%; overflow:hidden;
-	max-width:81px;
+    touch-action: manipulation;
+    cursor: pointer;
+    border-radius:10%; overflow:hidden;
+    max-width:81px;
 }
 
 .wpn-list {
-	margin-left: 15px;
-	margin-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 
@@ -199,7 +199,7 @@ input[type=checkbox]:checked + label img {
 {
     background-color: #3f4349;
     color: #d7ddde;
-	border-color: #3f4349;
+    border-color: #3f4349;
 }
 
 .pagination > li > a:focus,
